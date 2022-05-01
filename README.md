@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nico aka Pl3x1
 
-I´m currently programming in Delphi, Java and Swift, but I want to improve my Swift skills.
+I´m currently programming in Delphi, Java, Swift and React with TypeScript.
 
 Have a nice day
